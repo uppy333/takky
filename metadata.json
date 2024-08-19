@@ -1,0 +1,6 @@
+{
+    "name": "Example Token",
+    "symbol": "EXMPL",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/uppy333/takky/main/takky.png"
+  }
